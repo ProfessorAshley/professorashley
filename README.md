@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 :DDDDDDDDDDDDDDDDD
 
-<!--
-**ProfessorAshley/professorashley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [@ProfessorAshley](https://github.com/professorashley)
+- 🔭 I’m currently working on 'My Web Application'
+- 🌱 I’m currently learning 'How to not die in the Andromeda Galaxy 101' and 'How to not code in Rust 101'
+- 🌌 I'm working in the Andromeda Galaxy.
+- 🚦 I'm not actually a professor...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!---
+tekichan/tekichan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+- 💼 Project Showcase
+  - Placeholder
