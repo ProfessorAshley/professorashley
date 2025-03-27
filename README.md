@@ -15,7 +15,6 @@ fn main() {
         character = ":3",
         studying = ["Programming", "Calculus", "Java", "German"],
         languages = ["Python", "Javascript", "CSS", "Skript"],
-        loves = ["Cats", "Mizuki", "Clothes", "Sleeping", "Music"]
     };
 
     ashley.say_hello(); // Hi :DDDDDDDD I like birds
