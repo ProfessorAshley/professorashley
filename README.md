@@ -10,7 +10,7 @@
 use ashleymode;
 
 fn main() {
-    rosie := User {
+    professorashley := User {
         name = "Ashley",
         character = ":3",
         studying = ["Programming", "Calculus", "Java", "German"],
