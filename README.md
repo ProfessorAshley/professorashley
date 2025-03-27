@@ -6,12 +6,23 @@
 - 🌌 I'm working in the Andromeda Galaxy.
 - 🚦 I'm not actually a professor...
 
+```rs
+use ashleymode;
+
+fn main() {
+    rosie := User {
+        name = "Ashley",
+        character = ":3",
+        studying = ["Programming", "Calculus", "Java", "German"],
+        languages = ["Python", "Javascript", "CSS", "Skript"],
+        loves = ["Cats", "Mizuki", "Clothes", "Sleeping", "Music"]
+    };
+
+    ashley.say_hello(); // Hi :DDDDDDDD I like birds
+}
+```
 
 
-<!---
-tekichan/tekichan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 - 💼 Project Showcase
   - Placeholder
