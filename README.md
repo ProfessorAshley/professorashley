@@ -1,8 +1,8 @@
 ## Hi there 👋 :DDDDDDDDDDDDDDDDD
 
 - [@ProfessorAshley](https://github.com/professorashley)
-- 🔭 I’m currently working on 'My Web Application'
-- 🌱 I’m currently learning 'How to not die in the Andromeda Galaxy 101' and 'How to not code in Rust 101'
+- 🔭 I’m currently working on Nothing
+- 🌱 I’m currently reading 'How to not code in Rust 101'
 - 🌌 I'm working in the Andromeda Galaxy.
 - 🚦 I'm not actually a professor...
 
@@ -13,15 +13,10 @@ fn main() {
     professorashley := User {
         name = "Ashley",
         character = ":3",
-        studying = ["Programming", "Calculus", "Java", "German"],
-        languages = ["Python", "Javascript", "CSS", "Skript"],
+        studying = ["Maths", "Physics", "CS", "German"],
+        languages = ["Python", "Javascript", "Java", "Skript"],
     };
 
     ashley.say_hello(); // Hi :DDDDDDDD I like birds
 }
 ```
-
-
-
-- 💼 Project Showcase
-  - Placeholder
