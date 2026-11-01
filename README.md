@@ -1,10 +1,9 @@
-## Hi there 👋 :DDDDDDDDDDDDDDDDD
+## Hi there 👋 :/
 
 - [@ProfessorAshley](https://github.com/professorashley)
 - 🔭 I’m currently working on Nothing
 - 🌱 I’m currently reading 'How to not code in Rust 101'
 - 🌌 I'm working in the Andromeda Galaxy.
-- 🚦 I'm not actually a professor...
 
 ```rs
 use ashleymode;
@@ -14,7 +13,7 @@ fn main() {
         name = "Ashley",
         character = ":3",
         studying = ["Maths", "Physics", "CS", "German"],
-        languages = ["Python", "Javascript", "Java", "Skript"],
+        languages = ["Python", "JS", "TS", "Java"],
     };
 
     ashley.say_hello(); // Hi :DDDDDDDD I like birds
